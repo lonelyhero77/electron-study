@@ -1,0 +1,21 @@
+{
+  "name": "electron-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonelyhero77/electron-study.git"
+  },
+  "author": "lonelyhero77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonelyhero77/electron-study/issues"
+  },
+  "homepage": "https://github.com/lonelyhero77/electron-study#readme"
+}
